@@ -32,7 +32,7 @@
            <key>metadata</key>
            <dict>
              <key>bundle-identifier</key>
-             <string>com.electrateam.chimera</string>
+             <string>	science.xnu.undecimus</string>
              <key>bundle-version</key>
              <string><![CDATA[1.0.0]]></string>
              <key>kind</key>
